@@ -1,0 +1,199 @@
+{
+  "lundi": [
+    {
+      "matiere": "SVT",
+      "salle": "25-103",
+      "heureDebut": "16h00",
+      "heureFin": "18h00",
+      "semaines": [38]
+    },
+    {
+      "matiere": "SVT",
+      "salle": "25-103",
+      "heureDebut": "16h00",
+      "heureFin": "19h00",
+      "semaines": [39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 2, 3, 4, 5]
+    },
+    {
+      "matiere": "SVT TEST",
+      "salle": "25-103",
+      "heureDebut": "16h00",
+      "heureFin": "19h00",
+      "semaines": [39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 2, 3, 4, 5]
+    },
+    {
+      "matiere": "SVT",
+      "salle": "504",
+      "heureDebut": "16h00",
+      "heureFin": "19h00",
+      "semaines": [51]
+    },
+    {
+      "matiere": "SVT",
+      "salle": "25-103",
+      "heureDebut": "16h00",
+      "heureFin": "18h00",
+      "semaines": [10, 11, 12, 13, 14]
+    },
+    {
+      "matiere": "Français",
+      "salle": "25-103",
+      "heureDebut": "18h00",
+      "heureFin": "20h00",
+      "semaines": [10, 11, 12, 13, 14, 18, 19]
+    }
+  ],
+  "mardi": [
+    {
+      "matiere": "Méthodologie",
+      "salle": "25-104",
+      "heureDebut": "17h00",
+      "heureFin": "19h00",
+      "semaines": [38, 39, 40, 41, 42, 2, 3, 4, 5, 6]
+    }
+  ],
+  "mercredi": [
+    {
+      "matiere": "Mathématiques",
+      "salle": "25-103",
+      "heureDebut": "13h45",
+      "heureFin": "16h15",
+      "semaines": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        18,
+        19
+      ]
+    },
+    {
+      "matiere": "Mathématiques",
+      "salle": "502",
+      "heureDebut": "13h45",
+      "heureFin": "16h15",
+      "semaines": [51]
+    },
+    {
+      "matiere": "Anglais",
+      "salle": "25-104",
+      "heureDebut": "16h15",
+      "heureFin": "18h15",
+      "semaines": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "matiere": "Anglais",
+      "salle": "502",
+      "heureDebut": "13h45",
+      "heureFin": "16h15",
+      "semaines": [51]
+    }
+  ],
+  "jeudi": [
+    {
+      "matiere": "Mathématiques",
+      "salle": "25-103",
+      "heureDebut": "13h45",
+      "heureFin": "15h45",
+      "semaines": [38, 19, 40, 41, 42, 45, 46, 47, 48, 49, 50]
+    },
+    {
+      "matiere": "Mathématiques",
+      "salle": "504",
+      "heureDebut": "13h45",
+      "heureFin": "15h45",
+      "semaines": [51]
+    },
+    {
+      "matiere": "Français",
+      "salle": "25-104",
+      "heureDebut": "18h00",
+      "heureFin": "20h00",
+      "semaines": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "matiere": "Français",
+      "salle": "504",
+      "heureDebut": "18h00",
+      "heureFin": "20h00",
+      "semaines": [51]
+    }
+  ]
+}
